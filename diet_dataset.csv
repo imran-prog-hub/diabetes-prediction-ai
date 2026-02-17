@@ -1,0 +1,225 @@
+Day,Group,Veg/Non-Veg,Meal,Dish,Calories,Protein,Carbs,Fat,Fiber,Glycemic Index
+1,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,336.0,19.2,33.6,11.5,5.8,55
+1,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,50
+1,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),240.0,14.4,19.2,7.7,5.8,35
+1,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,307.2,21.1,17.3,11.5,6.7,40
+1,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,345.6,23.0,28.8,9.6,4.8,55
+1,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,460.8,30.7,48.0,13.4,5.8,58
+1,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,35
+1,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,336.0,28.8,14.4,13.4,5.8,42
+1,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,336.0,19.2,33.6,11.5,5.8,55
+1,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,50
+1,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),240.0,14.4,19.2,7.7,5.8,35
+1,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,307.2,21.1,17.3,11.5,6.7,40
+1,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,345.6,23.0,28.8,9.6,4.8,55
+1,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,460.8,30.7,48.0,13.4,5.8,58
+1,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,35
+1,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,336.0,28.8,14.4,13.4,5.8,42
+1,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,336.0,19.2,33.6,11.5,5.8,55
+1,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,50
+1,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),240.0,14.4,19.2,7.7,5.8,35
+1,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,307.2,21.1,17.3,11.5,6.7,40
+1,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,345.6,23.0,28.8,9.6,4.8,55
+1,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,460.8,30.7,48.0,13.4,5.8,58
+1,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,35
+1,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,336.0,28.8,14.4,13.4,5.8,42
+1,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,336.0,19.2,33.6,11.5,5.8,55
+1,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,403.2,17.3,43.2,11.5,7.7,50
+1,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),240.0,14.4,19.2,7.7,5.8,35
+1,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,307.2,21.1,17.3,11.5,6.7,40
+1,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,345.6,23.0,28.8,9.6,4.8,55
+1,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,460.8,30.7,48.0,13.4,5.8,58
+1,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,259.2,17.3,9.6,14.4,3.8,35
+1,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,336.0,28.8,14.4,13.4,5.8,42
+2,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,339.5,19.4,33.9,11.6,5.8,55
+2,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,50
+2,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,35
+2,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,310.4,21.3,17.5,11.6,6.8,40
+2,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,55
+2,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,465.6,31.0,48.5,13.6,5.8,58
+2,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,35
+2,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,339.5,29.1,14.5,13.6,5.8,42
+2,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,339.5,19.4,33.9,11.6,5.8,55
+2,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,50
+2,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,35
+2,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,310.4,21.3,17.5,11.6,6.8,40
+2,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,55
+2,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,465.6,31.0,48.5,13.6,5.8,58
+2,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,35
+2,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,339.5,29.1,14.5,13.6,5.8,42
+2,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,339.5,19.4,33.9,11.6,5.8,55
+2,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,50
+2,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,35
+2,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,310.4,21.3,17.5,11.6,6.8,40
+2,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,55
+2,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,465.6,31.0,48.5,13.6,5.8,58
+2,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,35
+2,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,339.5,29.1,14.5,13.6,5.8,42
+2,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,339.5,19.4,33.9,11.6,5.8,55
+2,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,407.4,17.5,43.6,11.6,7.8,50
+2,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),242.5,14.5,19.4,7.8,5.8,35
+2,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,310.4,21.3,17.5,11.6,6.8,40
+2,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,349.2,23.3,29.1,9.7,4.8,55
+2,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,465.6,31.0,48.5,13.6,5.8,58
+2,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,261.9,17.5,9.7,14.5,3.9,35
+2,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,339.5,29.1,14.5,13.6,5.8,42
+3,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,343.0,19.6,34.3,11.8,5.9,55
+3,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,50
+3,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),245.0,14.7,19.6,7.8,5.9,35
+3,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,313.6,21.6,17.6,11.8,6.9,40
+3,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,55
+3,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,470.4,31.4,49.0,13.7,5.9,58
+3,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,35
+3,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,343.0,29.4,14.7,13.7,5.9,42
+3,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,343.0,19.6,34.3,11.8,5.9,55
+3,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,50
+3,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),245.0,14.7,19.6,7.8,5.9,35
+3,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,313.6,21.6,17.6,11.8,6.9,40
+3,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,55
+3,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,470.4,31.4,49.0,13.7,5.9,58
+3,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,35
+3,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,343.0,29.4,14.7,13.7,5.9,42
+3,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,343.0,19.6,34.3,11.8,5.9,55
+3,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,50
+3,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),245.0,14.7,19.6,7.8,5.9,35
+3,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,313.6,21.6,17.6,11.8,6.9,40
+3,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,55
+3,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,470.4,31.4,49.0,13.7,5.9,58
+3,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,35
+3,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,343.0,29.4,14.7,13.7,5.9,42
+3,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,343.0,19.6,34.3,11.8,5.9,55
+3,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,411.6,17.6,44.1,11.8,7.8,50
+3,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),245.0,14.7,19.6,7.8,5.9,35
+3,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,313.6,21.6,17.6,11.8,6.9,40
+3,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,352.8,23.5,29.4,9.8,4.9,55
+3,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,470.4,31.4,49.0,13.7,5.9,58
+3,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,264.6,17.6,9.8,14.7,3.9,35
+3,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,343.0,29.4,14.7,13.7,5.9,42
+4,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,346.5,19.8,34.6,11.9,5.9,55
+4,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,50
+4,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,35
+4,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,316.8,21.8,17.8,11.9,6.9,40
+4,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5.0,55
+4,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,58
+4,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4.0,35
+4,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,346.5,29.7,14.8,13.9,5.9,42
+4,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,346.5,19.8,34.6,11.9,5.9,55
+4,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,50
+4,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,35
+4,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,316.8,21.8,17.8,11.9,6.9,40
+4,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5.0,55
+4,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,58
+4,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4.0,35
+4,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,346.5,29.7,14.8,13.9,5.9,42
+4,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,346.5,19.8,34.6,11.9,5.9,55
+4,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,50
+4,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,35
+4,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,316.8,21.8,17.8,11.9,6.9,40
+4,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5.0,55
+4,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,58
+4,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4.0,35
+4,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,346.5,29.7,14.8,13.9,5.9,42
+4,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,346.5,19.8,34.6,11.9,5.9,55
+4,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,415.8,17.8,44.5,11.9,7.9,50
+4,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),247.5,14.8,19.8,7.9,5.9,35
+4,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,316.8,21.8,17.8,11.9,6.9,40
+4,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,356.4,23.8,29.7,9.9,5.0,55
+4,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,475.2,31.7,49.5,13.9,5.9,58
+4,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,267.3,17.8,9.9,14.8,4.0,35
+4,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,346.5,29.7,14.8,13.9,5.9,42
+5,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,350.0,20.0,35.0,12.0,6.0,55
+5,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,420.0,18.0,45.0,12.0,8.0,50
+5,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),250.0,15.0,20.0,8.0,6.0,35
+5,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,320.0,22.0,18.0,12.0,7.0,40
+5,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,360.0,24.0,30.0,10.0,5.0,55
+5,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,480.0,32.0,50.0,14.0,6.0,58
+5,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,270.0,18.0,10.0,15.0,4.0,35
+5,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,350.0,30.0,15.0,14.0,6.0,42
+5,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,350.0,20.0,35.0,12.0,6.0,55
+5,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,420.0,18.0,45.0,12.0,8.0,50
+5,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),250.0,15.0,20.0,8.0,6.0,35
+5,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,320.0,22.0,18.0,12.0,7.0,40
+5,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,360.0,24.0,30.0,10.0,5.0,55
+5,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,480.0,32.0,50.0,14.0,6.0,58
+5,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,270.0,18.0,10.0,15.0,4.0,35
+5,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,350.0,30.0,15.0,14.0,6.0,42
+5,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,350.0,20.0,35.0,12.0,6.0,55
+5,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,420.0,18.0,45.0,12.0,8.0,50
+5,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),250.0,15.0,20.0,8.0,6.0,35
+5,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,320.0,22.0,18.0,12.0,7.0,40
+5,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,360.0,24.0,30.0,10.0,5.0,55
+5,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,480.0,32.0,50.0,14.0,6.0,58
+5,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,270.0,18.0,10.0,15.0,4.0,35
+5,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,350.0,30.0,15.0,14.0,6.0,42
+5,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,350.0,20.0,35.0,12.0,6.0,55
+5,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,420.0,18.0,45.0,12.0,8.0,50
+5,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),250.0,15.0,20.0,8.0,6.0,35
+5,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,320.0,22.0,18.0,12.0,7.0,40
+5,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,360.0,24.0,30.0,10.0,5.0,55
+5,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,480.0,32.0,50.0,14.0,6.0,58
+5,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,270.0,18.0,10.0,15.0,4.0,35
+5,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,350.0,30.0,15.0,14.0,6.0,42
+6,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,353.5,20.2,35.4,12.1,6.1,55
+6,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,50
+6,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,35
+6,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,323.2,22.2,18.2,12.1,7.1,40
+6,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5.0,55
+6,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,58
+6,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4.0,35
+6,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,353.5,30.3,15.2,14.1,6.1,42
+6,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,353.5,20.2,35.4,12.1,6.1,55
+6,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,50
+6,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,35
+6,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,323.2,22.2,18.2,12.1,7.1,40
+6,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5.0,55
+6,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,58
+6,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4.0,35
+6,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,353.5,30.3,15.2,14.1,6.1,42
+6,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,353.5,20.2,35.4,12.1,6.1,55
+6,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,50
+6,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,35
+6,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,323.2,22.2,18.2,12.1,7.1,40
+6,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5.0,55
+6,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,58
+6,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4.0,35
+6,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,353.5,30.3,15.2,14.1,6.1,42
+6,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,353.5,20.2,35.4,12.1,6.1,55
+6,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,424.2,18.2,45.5,12.1,8.1,50
+6,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),252.5,15.2,20.2,8.1,6.1,35
+6,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,323.2,22.2,18.2,12.1,7.1,40
+6,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,363.6,24.2,30.3,10.1,5.0,55
+6,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,484.8,32.3,50.5,14.1,6.1,58
+6,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,272.7,18.2,10.1,15.2,4.0,35
+6,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,353.5,30.3,15.2,14.1,6.1,42
+7,Diabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,357.0,20.4,35.7,12.2,6.1,55
+7,Diabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,50
+7,Diabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),255.0,15.3,20.4,8.2,6.1,35
+7,Diabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,326.4,22.4,18.4,12.2,7.1,40
+7,Diabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,55
+7,Diabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,489.6,32.6,51.0,14.3,6.1,58
+7,Diabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,35
+7,Diabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,357.0,30.6,15.3,14.3,6.1,42
+7,Diabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,357.0,20.4,35.7,12.2,6.1,55
+7,Diabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,50
+7,Diabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),255.0,15.3,20.4,8.2,6.1,35
+7,Diabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,326.4,22.4,18.4,12.2,7.1,40
+7,Diabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,55
+7,Diabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,489.6,32.6,51.0,14.3,6.1,58
+7,Diabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,35
+7,Diabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,357.0,30.6,15.3,14.3,6.1,42
+7,NonDiabetic_NotActive,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,357.0,20.4,35.7,12.2,6.1,55
+7,NonDiabetic_NotActive,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,50
+7,NonDiabetic_NotActive,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),255.0,15.3,20.4,8.2,6.1,35
+7,NonDiabetic_NotActive,Veg,Dinner,Grilled tofu + sautéed vegetables,326.4,22.4,18.4,12.2,7.1,40
+7,NonDiabetic_NotActive,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,55
+7,NonDiabetic_NotActive,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,489.6,32.6,51.0,14.3,6.1,58
+7,NonDiabetic_NotActive,Non-Veg,Snack,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,35
+7,NonDiabetic_NotActive,Non-Veg,Dinner,Grilled fish + sautéed vegetables,357.0,30.6,15.3,14.3,6.1,42
+7,NonDiabetic_Active,Veg,Breakfast,Oats porridge with flax seeds + 2 boiled eggs,357.0,20.4,35.7,12.2,6.1,55
+7,NonDiabetic_Active,Veg,Lunch,Whole wheat chapati + palak paneer + cucumber salad,428.4,18.4,45.9,12.2,8.2,50
+7,NonDiabetic_Active,Veg,Snack,Roasted chana + Greek yogurt (unsweetened),255.0,15.3,20.4,8.2,6.1,35
+7,NonDiabetic_Active,Veg,Dinner,Grilled tofu + sautéed vegetables,326.4,22.4,18.4,12.2,7.1,40
+7,NonDiabetic_Active,Non-Veg,Breakfast,Oats porridge + boiled egg whites + milk,367.2,24.5,30.6,10.2,5.1,55
+7,NonDiabetic_Active,Non-Veg,Lunch,Brown rice + grilled chicken curry + salad,489.6,32.6,51.0,14.3,6.1,58
+7,NonDiabetic_Active,Non-Veg,Snack,Boiled egg + roasted peanuts,275.4,18.4,10.2,15.3,4.1,35
+7,NonDiabetic_Active,Non-Veg,Dinner,Grilled fish + sautéed vegetables,357.0,30.6,15.3,14.3,6.1,42

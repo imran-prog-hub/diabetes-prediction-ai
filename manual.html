@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manual Diabetes Check</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+            background: linear-gradient(to right, #1e3c72, #2a5298);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            width: 350px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            margin-bottom: 25px;
+            color: #2c5364;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            font-size: 14px;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            margin-top: 15px;
+            background: linear-gradient(to right, #2c5364, #203a43);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        a {
+            display: block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #2c5364;
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <h2>🩺 Manual Diabetes Check</h2>
+
+    <form action="/predict" method="POST">
+        <input type="number" name="Glucose" placeholder="Enter Glucose Level" required>
+        <input type="number" name="BMI" placeholder="Enter BMI" required>
+        <input type="number" name="Age" placeholder="Enter Age" required>
+
+        <button type="submit">Predict Risk</button>
+    </form>
+
+    <a href="/dashboard">⬅ Back to Dashboard</a>
+</div>
+
+</body>
+</html>

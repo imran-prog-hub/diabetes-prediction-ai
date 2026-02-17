@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Lab Report</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+            background: linear-gradient(to right, #11998e, #38ef7d);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            width: 380px;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        h2 {
+            margin-bottom: 25px;
+            color: #11998e;
+        }
+
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            margin: 15px 0;
+        }
+
+        button {
+            width: 100%;
+            padding: 12px;
+            background: linear-gradient(to right, #11998e, #0575e6);
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            opacity: 0.9;
+        }
+
+        a {
+            display: block;
+            margin-top: 20px;
+            text-decoration: none;
+            color: #11998e;
+            font-weight: bold;
+        }
+
+        .icon {
+            font-size: 50px;
+            margin-bottom: 15px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="card">
+    <div class="icon">📄</div>
+    <h2>Upload Lab Report</h2>
+
+    <form action="/upload" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Upload & Analyze</button>
+    </form>
+
+    <a href="/dashboard">⬅ Back to Dashboard</a>
+</div>
+
+</body>
+</html>
