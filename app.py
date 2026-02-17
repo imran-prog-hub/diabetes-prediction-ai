@@ -27,6 +27,7 @@ app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 # =====================================================
 # DYNAMIC DIET FUNCTION (BASED ON YOUR DATASET)
 # =====================================================
+# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 def generate_structured_diet(days, prediction):
 
@@ -237,3 +238,4 @@ def diet():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
