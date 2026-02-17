@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HealthGuard AI Dashboard</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #eef2f7;
+        }
+
+        .navbar {
+            background: linear-gradient(to right, #2c5364, #203a43);
+            padding: 18px;
+            color: white;
+            font-size: 22px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .section {
+            background: white;
+            margin: 20px;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0px 8px 20px rgba(0,0,0,0.08);
+        }
+
+        h2 {
+            color: #2c5364;
+            margin-bottom: 15px;
+        }
+
+        input {
+            padding: 10px;
+            margin: 8px 5px;
+            width: 200px;
+            border-radius: 6px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            padding: 10px 15px;
+            background: #2c5364;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #203a43;
+        }
+
+        .result-card {
+            margin-top: 15px;
+            padding: 15px;
+            border-radius: 8px;
+        }
+
+        .low {
+            background: #d4edda;
+            color: #155724;
+        }
+
+        .high {
+            background: #f8d7da;
+            color: #721c24;
+        }
+
+        /* Diet Cards */
+        .diet-card {
+            background: #f9fbff;
+            padding: 20px;
+            margin-top: 15px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+
+        .diet-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        iframe {
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="navbar">
+    🏥 HealthGuard AI Smart Healthcare Dashboard
+</div>
+
+<!-- Welcome Section -->
+<div class="section">
+    <h2>Welcome to HealthGuard AI</h2>
+    <p>Your Intelligent Diabetes Prediction & Care Assistant</p>
+</div>
+
+<!-- Health Status -->
+<div class="section">
+    <h2>Your Health Status</h2>
+
+    {% if prediction is not none %}
+        <div class="result-card {% if prediction == 0 %}low{% else %}high{% endif %}">
+            {% if prediction == 0 %}
+                <h3>✅ Low Diabetes Risk</h3>
+            {% else %}
+                <h3>⚠ High Diabetes Risk</h3>
+            {% endif %}
+            <p><strong>Risk Probability:</strong> {{ probability }}%</p>
+            <p><strong>Suggested Guidance:</strong> {{ medicine }}</p>
+        </div>
+    {% else %}
+        <p>No prediction done yet.</p>
+    {% endif %}
+</div>
+
+<!-- Actions -->
+<div class="section">
+    <h2>Health Actions</h2>
+
+    <!-- Check Diabetes -->
+    <a href="/check">
+        <button>Check Diabetes</button>
+    </a>
+
+    <br><br>
+
+    <!-- Diet Input (only after prediction) -->
+    {% if prediction is not none %}
+    <form action="/diet" method="POST">
+        <h3>Generate Personalized Diet Plan</h3>
+
+        <input type="number" name="days"
+               placeholder="Enter number of days"
+               min="1" max="30" required>
+
+        <!-- Hidden value -->
+        <input type="hidden" name="prediction"
+               value="{{ prediction }}">
+
+        <button type="submit">Generate Plan</button>
+    </form>
+    {% endif %}
+</div>
+
+<!-- Diet Output -->
+{% if diet %}
+<div class="section">
+    <h2>📅 Your Personalized {{ diet|length }}-Day Diet Plan</h2>
+
+    {% for d in diet %}
+    <div class="diet-card">
+        <h3>Day {{ d.day }}</h3>
+
+        <div class="diet-grid">
+            <div><strong>🍳 Breakfast:</strong><br>{{ d.breakfast }}</div>
+            <div><strong>🍛 Lunch:</strong><br>{{ d.lunch }}</div>
+            <div><strong>🌙 Dinner:</strong><br>{{ d.dinner }}</div>
+            <div><strong>🏃 Exercise:</strong><br>{{ d.exercise }}</div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
+
+<!-- Hospital Finder -->
+<div class="section">
+    <h2>Find Super Speciality Hospitals</h2>
+
+    <input type="text" id="districtInput" placeholder="Enter District">
+    <button onclick="searchHospital()">Search Hospitals</button>
+
+    <br><br>
+
+    <iframe
+        id="hospitalMap"
+        width="100%"
+        height="300"
+        loading="lazy"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<script>
+function searchHospital() {
+    var location = document.getElementById("districtInput").value;
+    var mapFrame = document.getElementById("hospitalMap");
+    var query = "https://www.google.com/maps?q=super+speciality+hospital+near+" 
+                + location + "&output=embed";
+    mapFrame.src = query;
+}
+</script>
+
+</body>
+</html>
